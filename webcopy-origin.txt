@@ -1,0 +1,1664 @@
+Uri: http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https://crsorgi-gov.co/auth/web%2Findex.php%2Fauth%2FbirthCertificate%2Fview%2FB%2FbWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php%3Fid%3D20749%26cont%3DAnjsjdn&qzone=1&margin=0&size=400x400&ecc=L
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\v1\create-qr-code\index.htm
+Content Type: image/png
+
+Uri: http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https://crsorgi-gov.co/auth/web%2Findex.php%2Fauth%2FbirthCertificate%2Fview%2FB%2FbWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php%3Fid%3D20752%26cont%3DAnjsjdn&qzone=1&margin=0&size=400x400&ecc=L
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\v1\create-qr-code\index-1.htm
+Content Type: image/png
+
+Uri: http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https://crsorgi-gov.co/auth/web%2Findex.php%2Fauth%2FbirthCertificate%2Fview%2FB%2FbWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php%3Fid%3D24744%26cont%3DAnjsjdn&qzone=1&margin=0&size=400x400&ecc=L
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\v1\create-qr-code\index-2.htm
+Content Type: image/png
+
+Uri: http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https://crsorgi-gov.co/auth/web%2Findex.php%2Fauth%2FbirthCertificate%2Fview%2FB%2FbWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php%3Fid%3D55748%26cont%3DAnjsjdn&qzone=1&margin=0&size=400x400&ecc=L
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\v1\create-qr-code\index-3.htm
+Content Type: image/png
+
+Uri: http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https://crsorgi-gov.co/auth/web%2Findex.php%2Fauth%2FbirthCertificate%2Fview%2FB%2FbWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php%3Fid%3D77935%26cont%3DAnjsjdn&qzone=1&margin=0&size=400x400&ecc=L
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\v1\create-qr-code\index-4.htm
+Content Type: image/png
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthapply.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthapply.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthapply_bh_hi.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthapply_bh_hi.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthapply_dl.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthapply_dl.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthapply_hi.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthapply_hi.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit.php?id=MjA3NDk=
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit.php?id=MjA3NTI=
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit.php-1.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit.php?id=MjQ3NDQ=
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit.php-2.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit.php?id=NTU3NDg=
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit.php-3.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit.php?id=Nzc5MzU=
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit.php-4.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTA3NDkxMQ==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-26.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTA5MjE5Nw==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-25.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTA5NDUxMA==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-24.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTAxMzgyMQ==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-28.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTAzODUwMQ==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-27.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTcxMzg5Mw==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTcxMzIwMQ==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-2.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTcxMzQ1NA==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-1.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTE1OTA4Mg==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-20.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTE1OTEyMQ==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-19.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTE2MjI0Nw==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-18.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTE2Mjk1Ng==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-17.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTE2NDgwMA==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-16.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTE2NjA3MA==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-15.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTE2NjU4Mg==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-14.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTE3MTE1Ng==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-13.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTE3MzczMQ==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-12.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTE3NjU0NA==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-11.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTE3NzEwNw==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-10.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTE3NzI4MQ==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-9.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTE3NzQ2Mg==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-8.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTE4MDYxMg==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-7.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTEyNDg2MQ==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-23.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTEzOTA3Ng==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-22.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTEzOTA4Ng==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-21.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTU2MDE1Nw==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-6.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTU2MDE5OQ==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-5.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTU2MDIxNw==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-4.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=MTU2MDIzOA==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-3.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=NjE0NDgw
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-45.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=NjE0NDYz
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-46.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=NjE0NTIz
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-44.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=NjY3MjE4
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-43.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=Nzk1OTE0
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-39.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=NzU1ODcx
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-42.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=NzY0MzEz
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-41.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=NzY0MzQx
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-40.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=ODE1MzU0
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-38.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=ODE1NTMx
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-37.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=OTEyNDc1
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-36.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=OTgwMTcx
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-29.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=OTM1Mzk4
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-35.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=OTM1NjAy
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-34.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=OTM1NzIx
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-33.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=OTM1ODI3
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-32.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=OTM2MDI5
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-31.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_all.php?id=OTM5MDgy
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_all.php-30.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTA3NDkxMQ==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-26.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTA5MjE5Nw==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-25.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTA5NDUxMA==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-24.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTAxMzgyMQ==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-28.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTAzODUwMQ==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-27.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTcxMzg5Mw==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTcxMzIwMQ==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-2.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTcxMzQ1NA==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-1.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTE1OTA4Mg==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-20.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTE1OTEyMQ==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-19.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTE2MjI0Nw==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-18.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTE2Mjk1Ng==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-17.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTE2NDgwMA==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-16.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTE2NjA3MA==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-15.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTE2NjU4Mg==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-14.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTE3MTE1Ng==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-13.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTE3MzczMQ==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-12.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTE3NjU0NA==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-11.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTE3NzEwNw==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-10.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTE3NzI4MQ==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-9.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTE3NzQ2Mg==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-8.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTE4MDYxMg==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-7.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTEyNDg2MQ==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-23.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTEzOTA3Ng==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-22.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTEzOTA4Ng==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-21.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTU2MDE1Nw==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-6.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTU2MDE5OQ==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-5.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTU2MDIxNw==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-4.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=MTU2MDIzOA==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-3.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=NjE0NDgw
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-44.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=NjE0NDYz
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-45.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=NjE0NTIz
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-43.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=NjY3MjE4
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-42.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=Nzk1OTE0
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-39.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=NzU1ODcx
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=NzY0MzEz
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-41.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=NzY0MzQx
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-40.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=ODE1MzU0
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-38.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=ODE1NTMx
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-37.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=OTEyNDc1
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-36.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=OTgwMTcx
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-29.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=OTM1Mzk4
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-35.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=OTM1NjAy
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-34.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=OTM1NzIx
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-33.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=OTM1ODI3
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-32.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=OTM2MDI5
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-31.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthedit_new_bh.php?id=OTM5MDgy
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthedit_new_bh.php-30.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthlist.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthlist.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthlist1.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthlist1.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthlist_bh.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthlist_bh.php
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthlist_dl.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthlist_dl.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthlist_march.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthlist_march.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthview.php?id=MjA3NDk=
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthview.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthview.php?id=MjA3NTI=
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthview.php-1.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthview.php?id=MjQ3NDQ=
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthview.php-2.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthview.php?id=NTU3NDg=
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthview.php-3.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birthview.php?id=Nzc5MzU=
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birthview.php-4.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_andra_p.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_andra_p.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_app.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_app.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_as.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_as.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_bh.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_bh.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_ch.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_ch.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_chand.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_chand.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_goa.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_goa.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_gu.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_gu.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_hp.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_hp.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_hr.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_hr.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_jh.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_jh.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_jk.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_jk.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_ka.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_ka.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_mani.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_mani.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_mh.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_mh.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_ml.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_ml.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_mp.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_mp.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_od.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_od.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_pb.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_pb.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_rj.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_rj.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_sk.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_sk.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_tele.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_tele.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_tn.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_tn.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_tp.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_tp.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_uk.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_uk.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_up.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_up.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/birth_hospital_add_wb.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\birth_hospital_add_wb.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/check_all.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\check_all.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/check_bh.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\check_bh.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/deathapply.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\deathapply.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/deathapply_bh_hi.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\deathapply_bh_hi.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/deathapply_hi.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\deathapply_hi.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/deathedit.php?id=MzgyMw==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\deathedit.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/deathedit.php?id=MzgyNg==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\deathedit.php-1.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/deathedit.php?id=MzgyNw==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\deathedit.php-2.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/deathedit_new _bh.php?id=MzUxMDI=
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\deathedit_new _bh.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/deathedit_new_all.php?id=MzUxMDI=
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\deathedit_new_all.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/deathlist.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\deathlist.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/deathlist1.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\deathlist1.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/deathlist_bh.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\deathlist_bh.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/deathview.php?id=MzgyMw==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\deathview.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/deathview.php?id=MzgyNg==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\deathview.php-1.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/deathview.php?id=MzgyNw==
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\deathview.php-2.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_andhra_p.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_andhra_p.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_as.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_as.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_bh.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_bh.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_chand.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_chand.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_chh.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_chh.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_goa.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_goa.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_gu.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_gu.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_hr.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_hr.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_jh.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_jh.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_jk.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_jk.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_ka.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_ka.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_mani.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_mani.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_mh.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_mh.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_ml.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_ml.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_mp.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_mp.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_od.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_od.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_pb.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_pb.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_rj.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_rj.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_sk.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_sk.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_tele.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_tele.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_tn.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_tn.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_tri.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_tri.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_uk.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_uk.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_up.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_up.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/death_hospital_add_wb.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\death_hospital_add_wb.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/dist/css/adminlte.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\dist\css\adminlte.min.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/dist/js/adminlte.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\dist\js\adminlte.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/dist/js/demo.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\dist\js\demo.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/dist/js/pages/dashboard.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\dist\js\pages\dashboard.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/hmb.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\hmb.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/hmd.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\hmd.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/index_all.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\index_all.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/index_bh.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\index_bh.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/pg.aac
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\pg.aac
+Content Type: audio/x-aac
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/chart.js/Chart.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\chart.js\Chart.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\datatables-bs4\js\dataTables.bootstrap4.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/datatables-buttons/js/buttons.bootstrap4.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\datatables-buttons\js\buttons.bootstrap4.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/datatables-buttons/js/buttons.colVis.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\datatables-buttons\js\buttons.colVis.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/datatables-buttons/js/buttons.html5.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\datatables-buttons\js\buttons.html5.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/datatables-buttons/js/buttons.print.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\datatables-buttons\js\buttons.print.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/datatables-buttons/js/dataTables.buttons.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\datatables-buttons\js\dataTables.buttons.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/datatables-responsive/js/dataTables.responsive.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\datatables-responsive\js\dataTables.responsive.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/datatables-responsive/js/responsive.bootstrap4.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\datatables-responsive\js\responsive.bootstrap4.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/datatables/jquery.dataTables.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\datatables\jquery.dataTables.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/daterangepicker/daterangepicker.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\daterangepicker\daterangepicker.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/daterangepicker/daterangepicker.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\daterangepicker\daterangepicker.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/fontawesome-free/css/all.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\fontawesome-free\css\all.min.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/fontawesome-free/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\fontawesome-free\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/fontawesome-free/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\fontawesome-free\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/fontawesome-free/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\fontawesome-free\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/fontawesome-free/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\fontawesome-free\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/fontawesome-free/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\fontawesome-free\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/fontawesome-free/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\fontawesome-free\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/fontawesome-free/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\fontawesome-free\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/fontawesome-free/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\fontawesome-free\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/fontawesome-free/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\fontawesome-free\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/fontawesome-free/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\fontawesome-free\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/fontawesome-free/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\fontawesome-free\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/fontawesome-free/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\fontawesome-free\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/fontawesome-free/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\fontawesome-free\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/fontawesome-free/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\fontawesome-free\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/fontawesome-free/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\fontawesome-free\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/fontawesome-free/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\fontawesome-free\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/fontawesome-free/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\fontawesome-free\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\fontawesome-free\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/icheck-bootstrap/icheck-bootstrap.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\icheck-bootstrap\icheck-bootstrap.min.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/jquery-knob/jquery.knob.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\jquery-knob\jquery.knob.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/jquery-ui/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\jquery-ui\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/jqvmap/jquery.vmap.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\jqvmap\jquery.vmap.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/jqvmap/jqvmap.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\jqvmap\jqvmap.min.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/jqvmap/maps/jquery.vmap.usa.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\jqvmap\maps\jquery.vmap.usa.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/moment/moment.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\moment\moment.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/overlayScrollbars/css/OverlayScrollbars.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\overlayScrollbars\css\OverlayScrollbars.min.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\overlayScrollbars\js\jquery.overlayScrollbars.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/select2/js/select2.full.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\select2\js\select2.full.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/sparklines/sparkline.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\sparklines\sparkline.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/summernote/font/summernote.eot
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\summernote\font\summernote.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/summernote/font/summernote.eot?
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\summernote\font\summernote-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/summernote/font/summernote.ttf
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\summernote\font\summernote.ttf
+Content Type: font/ttf
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/summernote/font/summernote.woff
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\summernote\font\summernote.woff
+Content Type: font/woff
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/summernote/font/summernote.woff2
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\summernote\font\summernote.woff2
+Content Type: font/woff2
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/summernote/summernote-bs4.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\summernote\summernote-bs4.min.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/summernote/summernote-bs4.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\summernote\summernote-bs4.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\tempusdominus-bootstrap-4\css\tempusdominus-bootstrap-4.min.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\plugins\tempusdominus-bootstrap-4\js\tempusdominus-bootstrap-4.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/profile.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\profile.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/profile3.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\profile3.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/State.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\State.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/State_files/bootstrap5_1_3.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\State_files\bootstrap5_1_3.min.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/State_files/langpage_style.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\State_files\langpage_style.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/uploads/user.png
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\uploads\user.png
+Content Type: image/png
+
+Uri: https://academy.mang.project.viawcert.org/auth/wallet_all.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\wallet_all.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/wallet_bh.php
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\wallet_bh.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/B/bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php?id=20749&cont=Anjsjdn
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\B\bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/B/bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php?id=20752&cont=Anjsjdn
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\B\bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php-1.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/B/bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php?id=24744&cont=Anjsjdn
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\B\bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php-2.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/B/bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php?id=55748&cont=Anjsjdn
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\B\bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php-3.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/B/bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php?id=77935&cont=Anjsjdn
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\B\bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php-4.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/css/default.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\css\default.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/css/jquery-ui-1.10.0.custom.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\css\jquery-ui-1.10.0.custom.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/css/jquery.ui.all.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\css\jquery.ui.all.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/css/main.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\css\main.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/css/style.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\css\style.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/images/btn-bg.gif
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\images\btn-bg.gif
+Content Type: image/gif
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/images/emb-forms.gif
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\images\emb-forms.gif
+Content Type: image/gif
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/images/favicon.ico
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/images/form-title-strip.jpg
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\images\form-title-strip.jpg
+Content Type: image/jpeg
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/images/logo-top.jpg
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\images\logo-top.jpg
+Content Type: image/jpeg
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/js/jquery-1.9.0.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\js\jquery-1.9.0.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/js/jquery-ui-1.10.0.custom.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\js\jquery-ui-1.10.0.custom.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/js/jquery.ui.core.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\js\jquery.ui.core.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/js/json_parse.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\js\json_parse.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificate/view/js/mm_menu.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificate\view\js\mm_menu.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/birthCertificatePdf/B/bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09/type/print.php?id=
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\birthCertificatePdf\B\bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09\type\print.php
+Content Type: application/pdf
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/deathCertificate/view/B/bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php?id=3823&cont=Anjsjdn
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\deathCertificate\view\B\bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/deathCertificate/view/B/bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php?id=3826&cont=Anjsjdn
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\deathCertificate\view\B\bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php-1.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/deathCertificate/view/B/bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php?id=3827&cont=Anjsjdn
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\deathCertificate\view\B\bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php-2.html
+Content Type: text/html
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/deathCertificate/view/css/default.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\deathCertificate\view\css\default.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/deathCertificate/view/css/jquery-ui-1.10.0.custom.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\deathCertificate\view\css\jquery-ui-1.10.0.custom.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/deathCertificate/view/css/jquery.ui.all.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\deathCertificate\view\css\jquery.ui.all.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/deathCertificate/view/css/main.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\deathCertificate\view\css\main.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/deathCertificate/view/css/style.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\deathCertificate\view\css\style.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/deathCertificate/view/images/btn-bg.gif
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\deathCertificate\view\images\btn-bg.gif
+Content Type: image/gif
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/deathCertificate/view/images/emb-forms.gif
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\deathCertificate\view\images\emb-forms.gif
+Content Type: image/gif
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/deathCertificate/view/images/favicon.ico
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\deathCertificate\view\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/deathCertificate/view/images/form-title-strip.jpg
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\deathCertificate\view\images\form-title-strip.jpg
+Content Type: image/jpeg
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/deathCertificate/view/images/logo-top.jpg
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\deathCertificate\view\images\logo-top.jpg
+Content Type: image/jpeg
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/deathCertificate/view/js/jquery-1.9.0.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\deathCertificate\view\js\jquery-1.9.0.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/deathCertificate/view/js/jquery-ui-1.10.0.custom.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\deathCertificate\view\js\jquery-ui-1.10.0.custom.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/deathCertificate/view/js/jquery.ui.core.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\deathCertificate\view\js\jquery.ui.core.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/deathCertificate/view/js/json_parse.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\deathCertificate\view\js\json_parse.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/auth/web/index.php/auth/deathCertificate/view/js/mm_menu.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\auth\web\index.php\auth\deathCertificate\view\js\mm_menu.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/web/css/default.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\css\default.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/web/css/jquery-3.6.3.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\css\jquery-3.6.3.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/web/css/jquery-ui-1.10.0.custom.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\css\jquery-ui-1.10.0.custom.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/web/css/jquery-ui.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\css\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/web/css/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\css\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/web/css/jquery.ui.all.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\css\jquery.ui.all.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/web/css/jquery.ui.base.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\css\jquery.ui.base.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/web/css/main.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\css\main.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/web/css/style.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\css\style.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/web/css/style1.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\css\style1.css
+Content Type: text/css
+
+Uri: https://academy.mang.project.viawcert.org/web/images/logo-top.jpg
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\images\logo-top.jpg
+Content Type: image/jpeg
+
+Uri: https://academy.mang.project.viawcert.org/web/images/water-mark.gif
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\images\water-mark.gif
+Content Type: image/gif
+
+Uri: https://academy.mang.project.viawcert.org/web/js/form_birth.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\js\form_birth.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/web/js/jquery-1.9.0.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\js\jquery-1.9.0.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/web/js/jquery-ui-1.10.0.custom.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\js\jquery-ui-1.10.0.custom.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/web/js/jquery.blockUI.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\js\jquery.blockUI.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/web/js/jquery.ui.core.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\js\jquery.ui.core.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/web/js/jquery.ui.datepicker-new.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\js\jquery.ui.datepicker-new.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/web/js/jquery.ui.widget.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\js\jquery.ui.widget.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/web/js/jquery.validate.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\js\jquery.validate.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/web/js/json_parse.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\js\json_parse.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/web/js/mm_menu.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\js\mm_menu.js
+Content Type: application/javascript
+
+Uri: https://academy.mang.project.viawcert.org/web/js/unicef.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\js\unicef.js
+Content Type: application/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ajax\libs\jquery\2.1.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ajax\libs\jquery\3.6.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https://crsorgi-gov.co/auth/web%2Findex.php%2Fauth%2FdeathCertificate%2Fview%2FB%2FbWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php%3Fid%3D3823%26cont%3DAnjsjdn&qzone=1&margin=0&size=400x400&ecc=L
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\v1\create-qr-code\index-5.htm
+Content Type: image/png
+
+Uri: https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https://crsorgi-gov.co/auth/web%2Findex.php%2Fauth%2FdeathCertificate%2Fview%2FB%2FbWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php%3Fid%3D3826%26cont%3DAnjsjdn&qzone=1&margin=0&size=400x400&ecc=L
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\v1\create-qr-code\index-6.htm
+Content Type: image/png
+
+Uri: https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https://crsorgi-gov.co/auth/web%2Findex.php%2Fauth%2FdeathCertificate%2Fview%2FB%2FbWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php%3Fid%3D3827%26cont%3DAnjsjdn&qzone=1&margin=0&size=400x400&ecc=L
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\v1\create-qr-code\index-7.htm
+Content Type: image/png
+
+Uri: https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\1.12.1\css\jquery.dataTables.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@11.4.14/dist/sweetalert2.all.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\npm\sweetalert2@11.4.14\dist\sweetalert2.all.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.0/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ajax\libs\fancybox\3.2.0\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.0/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ajax\libs\fancybox\3.2.0\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ajax\libs\font-awesome\6.1.2\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ajax\libs\font-awesome\6.1.2\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ajax\libs\font-awesome\6.1.2\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ajax\libs\font-awesome\6.1.2\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ajax\libs\font-awesome\6.1.2\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ajax\libs\font-awesome\6.1.2\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ajax\libs\font-awesome\6.1.2\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ajax\libs\font-awesome\6.1.2\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ajax\libs\font-awesome\6.1.2\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-toast-plugin/1.3.2/jquery.toast.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ajax\libs\jquery-toast-plugin\1.3.2\jquery.toast.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ajax\libs\jquery-validate\1.19.3\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/8.11.8/sweetalert2.all.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ajax\libs\limonte-sweetalert2\8.11.8\sweetalert2.all.min.js
+Content Type: application/javascript
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ionicons\2.0.1\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.eot?v=2.0.1
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ionicons\2.0.1\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.svg?v=2.0.1
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ionicons\2.0.1\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.ttf?v=2.0.1
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ionicons\2.0.1\fonts\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.woff?v=2.0.1
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ionicons\2.0.1\fonts\ionicons.woff
+Content Type: font/woff
+
+Uri: https://code.jquery.com/jquery-1.12.4.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\jquery-1.12.4.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/ui/1.12.1/jquery-ui.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ui\1.12.1\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_444444_256x240.png
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ui\1.12.1\themes\base\images\ui-icons_444444_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_555555_256x240.png
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ui\1.12.1\themes\base\images\ui-icons_555555_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_777620_256x240.png
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ui\1.12.1\themes\base\images\ui-icons_777620_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_777777_256x240.png
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ui\1.12.1\themes\base\images\ui-icons_777777_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_cc0000_256x240.png
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ui\1.12.1\themes\base\images\ui-icons_cc0000_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_ffffff_256x240.png
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ui\1.12.1\themes\base\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ui\1.12.1\themes\base\jquery-ui.css
+Content Type: text/css
+
+Uri: https://code.jquery.com/ui/1.13.0/jquery-ui.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\ui\1.13.0\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://crsorgi-gov.co/web/barcode.png
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\web\barcode.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic);html,body{min-height:100%25}.layout-boxed html,.layout-boxed body{height:100%25}body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:400;overflow-x:hidden;overflow-y:auto}.wrapper{min-height:100%25;position:static;overflow:hidden}.wrapper:before,.wrapper:after{content:"
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\icon
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/materialicons/v142/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\s\materialicons\v142\flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDc.ttf
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\s\sourcesanspro\v22\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCds18E.ttf
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCds18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkids18E.ttf
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkids18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\font-awesome\4.5.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\font-awesome\4.5.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?v=4.5.0
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\font-awesome\4.5.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.svg?v=4.5.0
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\font-awesome\4.5.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.ttf?v=4.5.0
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\font-awesome\4.5.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff2?v=4.5.0
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\font-awesome\4.5.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff?v=4.5.0
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\font-awesome\4.5.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://nfsa.gov.in/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://nfsa.gov.in/bootstrap/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\bootstrap\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nfsa.gov.in/bootstrap/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\bootstrap\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nfsa.gov.in/bootstrap/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\bootstrap\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://nfsa.gov.in/bootstrap/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\bootstrap\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://nfsa.gov.in/bootstrap/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\bootstrap\fonts\glyphicons-halflings-regular.woff
+Content Type: font/x-woff
+
+Uri: https://nfsa.gov.in/bootstrap/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\bootstrap\fonts\glyphicons-halflings-regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://nfsa.gov.in/bootstrap/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://nfsa.gov.in/css/style_publicv5.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\css (1)\style_publicv5.css
+Content Type: text/css
+
+Uri: https://nfsa.gov.in/dist/css/AdminLTE.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\dist\css\AdminLTE.min.css
+Content Type: text/css
+
+Uri: https://nfsa.gov.in/dist/css/loclastyles.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\dist\css\loclastyles.css
+Content Type: text/css
+
+Uri: https://nfsa.gov.in/dist/css/skins/_all-skins.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\dist\css\skins\_all-skins.min.css
+Content Type: text/css
+
+Uri: https://nfsa.gov.in/dist/img/boxed-bg.jpg
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\dist\img\boxed-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://nfsa.gov.in/fonts/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\fonts\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://nfsa.gov.in/fonts/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\fonts\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nfsa.gov.in/fonts/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\fonts\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nfsa.gov.in/fonts/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\fonts\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://nfsa.gov.in/fonts/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\fonts\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://nfsa.gov.in/fonts/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\fonts\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://nfsa.gov.in/fonts/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\fonts\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://nfsa.gov.in/fonts/ionicons/2.0.1/css/ionicons.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\fonts\ionicons\2.0.1\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://nfsa.gov.in/fonts/ionicons/2.0.1/fonts/ionicons.ttf?v=2.0.1
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\fonts\ionicons\2.0.1\fonts\ionicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://nfsa.gov.in/fonts/ionicons/2.0.1/fonts/ionicons.woff?v=2.0.1
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\fonts\ionicons\2.0.1\fonts\ionicons.woff
+Content Type: font/x-woff
+
+Uri: https://nfsa.gov.in/img/bg-noise.png
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\img\bg-noise.png
+Content Type: image/png
+
+Uri: https://nfsa.gov.in/plugins/chartjs/Chart.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\plugins\chartjs\Chart.min.js
+Content Type: application/javascript
+
+Uri: https://nfsa.gov.in/plugins/daterangepicker/moment.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\plugins\daterangepicker\moment.js
+Content Type: application/javascript
+
+Uri: https://nfsa.gov.in/plugins/fastclick/fastclick.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\plugins\fastclick\fastclick.min.js
+Content Type: application/javascript
+
+Uri: https://nfsa.gov.in/plugins/jQuery/jQuery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\plugins\jQuery\jQuery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://nfsa.gov.in/plugins/jvectormap/jquery-jvectormap-1.2.2.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\plugins\jvectormap\jquery-jvectormap-1.2.2.css
+Content Type: text/css
+
+Uri: https://nfsa.gov.in/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\plugins\jvectormap\jquery-jvectormap-1.2.2.min.js
+Content Type: application/javascript
+
+Uri: https://nfsa.gov.in/plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\plugins\jvectormap\jquery-jvectormap-world-mill-en.js
+Content Type: application/javascript
+
+Uri: https://nfsa.gov.in/plugins/pace/pace.min.css
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\plugins\pace\pace.min.css
+Content Type: text/css
+
+Uri: https://nfsa.gov.in/plugins/pds/encoder.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\plugins\pds\encoder.js
+Content Type: application/javascript
+
+Uri: https://nfsa.gov.in/plugins/pds/jquery-pds-dashboard-tools.1.0.0.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\plugins\pds\jquery-pds-dashboard-tools.1.0.0.js
+Content Type: application/javascript
+
+Uri: https://nfsa.gov.in/plugins/pds/jquery-pds-pageinfo.1.0.0.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\plugins\pds\jquery-pds-pageinfo.1.0.0.js
+Content Type: application/javascript
+
+Uri: https://nfsa.gov.in/plugins/pds/jquery.media.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\plugins\pds\jquery.media.js
+Content Type: application/javascript
+
+Uri: https://nfsa.gov.in/plugins/slimScroll/jquery.slimscroll.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\plugins\slimScroll\jquery.slimscroll.min.js
+Content Type: application/javascript
+
+Uri: https://nfsa.gov.in/plugins/smooth-marquee/jquery.marquee.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\plugins\smooth-marquee\jquery.marquee.js
+Content Type: application/javascript
+
+Uri: https://nfsa.gov.in/plugins/sparkline/jquery.sparkline.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\plugins\sparkline\jquery.sparkline.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/sweetalert@2.1.2/dist/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\sweetalert@2.1.2\dist\sweetalert.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-5PT57SMG05
+File Name: C:\Downloaded Web Sites\academy.mang.project.viawcert.org\gtag\js
+Content Type: application/javascript
+
